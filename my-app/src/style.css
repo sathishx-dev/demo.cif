@@ -221,8 +221,7 @@ h1, h2, h3, h4, h5, h6,
     linear-gradient(
       rgba(230, 244, 241, 0.75),
       rgba(255, 255, 255, 0.75)
-    ),
-    url("./assets/backgroundimg.jpg");
+    ),;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
